@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>EXPERIENCE</title>
+</head>
+<body>
+<h3 align="center"><font face="times new roman" font size="6"</font>MY EXPERIENCE</h3>
+<body bgcolor="	#D3D3D3">
+<style type="text/css">
+a:link {text-decoration: none}
+a:visited {text-decoration: none}
+a:active {text-decoration: none}
+a:hover {text-decoration: underline:color:blue}
+</style>
+<table align="center" cellspacing="15" cellpadding="10">
+<tr>
+<td><a href="homepage2.html" align="center"><font face="times new roman" font size="5"</font>Home</a></td>
+<td><a href="Akuu.html" align="center"><font face="times new roman" font size="5"</font>Biodata</a></td>
+<td><a href="education.html" align="center"><font face="times new roman" font size="5"</font>Education</a></td>
+<td><a href="experience.html" align="center"><font face="times new roman" font size="5"</font>Experience</a></td>
+<td><a href="family.html" align="center"><font face="times new roman" font size="5"</font>Family</a></td>
+<td><a href="gallery.html" align="center"><font face="times new roman" font size="5.5"</font>Gallery</a></td>
+<td><a href="friend.html" align="center"><font face="times new roman" font size="5.5"</font>Friend</a></td>
+</tr>
+</table>
+<table align="center" width="60%" cellspacing="15" cellpadding="10">
+<tr align="center">
+<td>
+<figure>
+<img src="NUR HAFIEZA 2018417094/image/bukit.jpg" align="center" border="1">
+<figcaption>Figure 1</figcaption>
+</figure>
+<ul type="square">
+<li>
+<p align="center"><font size="4">For experience, I once climbed a Bukit Larut located near Taiping. It was 2 years ago; I go with my 2 friends.
+We go there because we have nothing to do at home and we have so much time after we finish our SPM exam. It was 
+spontaneous plan we make; we decide one day before we go to hiking. It was great experience with my friends.</font></p>
+</li>
+<li>
+<p align="center"><font size="4">We take about 1 hour to finish climbed the Bukit Larut because this is our first experience climbed Bukit Larut. When climbing it 
+is quite difficult but when it reaches the top it is very satisfying and gives joy to oneself. The view of the soluble hills is also 
+beautiful.</font></p>
+</li>
+</td>
+<tr align="center">
+<td>
+<figure>
+<img src="NUR HAFIEZA 2018417094/image/choral.png" align="center" border="1">
+<figcaption>Figure 2</figcaption>
+</figure>
+<ul type="square">
+<li>
+<p align="center"><font size="4">My second experience is joining choral speaking when I was level 4. We practice about 1 month to form a good performance, saying once, 
+we don’t win the competition. However, I can get closer with my friend during this choral speaking preparation.</font></p>
+</li>
+</ul>
+</td>
+<tr align="center">
+<td>
+<figure>
+<img src="NUR HAFIEZA 2018417094/image/penang.jpg" align="center" border="1">
+<figcaption>Figure 3</figcaption>
+</figure>
+<ul type="square">
+<li>
+<p align="center"><font size="4">Third experience is me and my friend vacation for 2 days 1 night only in Penang during the semester break. We went by train and 
+ferry together. We visit interesting places there, it is very tiring because we walk a lot towards the place we are going to. But, it was a memorable experience 
+and this experience happened before Covid-19, we also have plans to go again but buried due to Covid-19. My university friend and I have not seen each other for 
+a long time after online distance learning.</font></p>
+</li>
+<li>
+<p align="center"><font size="4">This is the top 3 experiences in my live that I think are very memorable for me, even though there are other experiences that
+I do with my friends.</font></p>
+</li>
+</ul>
+</td>
+</table>
+<br>
+<embed src="NUR HAFIEZA 2018417094/audio/relax.mp3" hidden="true" autoplay="true"></embed>
+<a href="experience.html" "#top"><image src="NUR HAFIEZA 2018417094/image/top.png" align="right"></a>
+</body>
+</html>
